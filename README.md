@@ -1,4 +1,4 @@
-<a href="jos-kleinian'>Jos-Kleinian</a>
+[<a href="jos-kleinian'>Jos-Kleinian</a>](https://iannmiui-png.github.io/dafnebrots/jos-leys-kleinian/)
 
 usage:
 <pre>python dafnebrot.py 1
