@@ -1,5 +1,5 @@
 usage: pythong dafbro.py DAFNE
-```bash
+<pre>
 from sys import argv
 
 T="…DNa¦fnn—e`brr(0"
@@ -60,7 +60,8 @@ if len(argv)==1:
 else:
     jx,jy=S(argv[1].upper())
     R(jx,jy,F)```
-<pre>
+</pre>
+            <pre>
 ←        ←        ←        ←        ←        ←        ←
       ←        ←        ←        ←        ←        ←        ←
    ←        ←        ←        ←        ←        ←        ←
