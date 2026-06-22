@@ -1,4 +1,4 @@
-[(https://iannmiui-png.github.io/dafnebrots/jos-leys-kleinian/)](https://iannmiui-png.github.io/dafnebrots/jos-leys-kleinian/)
+[(https://iannmiui-png.github.io/dafnebrots/jos-leys-kleinian/)](Jos-Leys Kleinian)
 
 usage:
 <pre>python dafnebrot.py 1
