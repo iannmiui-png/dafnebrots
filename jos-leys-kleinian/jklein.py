@@ -1,7 +1,7 @@
 from sys import argv
 
-T="DAFNEBR0"
-I="‘*’/|\\‹◊›"
+T="…DNa¦fnn—e`brr(0"
+I="                    "
 W,H,F=62,28,243
 A,B="ROTASPEN","DAFNEBR0"
 
@@ -10,8 +10,8 @@ def S(s):
     for c in s:
         if c in A:x+=A.index(c)
         if c in B:y+=B.index(c)
-    jx=((x%9)-4)/12
-    jy=((y%9)-4)/12
+    jx=((x%9)-4)/2
+    jy=((y%9)-4)/2
     if abs(jx)<1e-6:jx=.02
     if abs(jy)<1e-6:jy=.02
     return jx,jy
